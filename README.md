@@ -1,4 +1,3 @@
-- 👋 Hi, I am Antonio Ereiz
-- 👀 I’m interested in game development and computer science.
-- 🌱 I’m currently learning everything, or in other words I'm going to college
-
+- 👋 Hi, I am Antonio
+- 👀 I am a full stack web developer
+- ☕ I am mostly coding in Java and Typescript
