@@ -1,2 +1,3 @@
 - 👋 Hi, I am Antonio
-- ☕ I am a full stack web developer specializing in Java and Typescript
+- ☕ I am a full stack web developer specializing in Java and Javascript, and no they are not similar.
+- 🧑‍🏫 I am also a passionate developer experience advocate focusing mostly on Internal Developer Platforms using Backstage
