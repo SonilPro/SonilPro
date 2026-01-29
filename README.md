@@ -1,9 +1,9 @@
-- Hi, I am Antonio
+## Hi, I'm Antonio👋
 
-- I am a full-stack web developer with expertise in a variety of languages and frameworks. Recently, my focus has been primarily on the JavaScript ecosystem
-  
-- [Backstage](https://github.com/backstage/backstage) is currently my home when it comes to contributing.
+I'm a full-stack web developer with experience in a variety of languages and frameworks. Recently, my focus has been primarily on the JavaScript ecosystem.
 
-- I am a passionate advocate for developer experience, with emphasis on building Internal Developer Platforms.
+For the most part of my career I have been working on devEx, building tools and portals for developers.
 
-- Currently working at [Infobip](https://www.infobip.com/)
+You'll mostly find me contributing to [Backstage](https://github.com/backstage/backstage)
+
+Currently working at [Infobip](https://www.infobip.com/)
