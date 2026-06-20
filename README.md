@@ -1,9 +1,9 @@
 ## Hi, I'm Antonio👋
 
-I'm a full-stack web developer with experience in a variety of languages and frameworks. Recently, my focus has been primarily on the JavaScript ecosystem.
+I'm a software engineer from Croatia with experience across a wide range of technologies.
 
-For the most part of my career I have been working on devEx, building tools and portals for developers.
+My current focus is on developer experience, building developer portals, and creating internal tools to help other engineers move faster.
 
-You'll mostly find me contributing to [Backstage](https://github.com/backstage/backstage)
+Currently working at [Infobip](https://www.infobip.com/), but you'll also find me contributing to [Backstage.](https://github.com/backstage/backstage)
 
-Currently working at [Infobip](https://www.infobip.com/)
+For contact send me an e-mail to antonio.ereiz@gmail.com.
